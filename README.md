@@ -5,7 +5,7 @@ dunst notification service
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/dunst/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/dunst/raw/main/install.sh)"
 ```
 
 Manual install:
